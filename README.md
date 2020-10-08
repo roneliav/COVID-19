@@ -1,7 +1,7 @@
 # COVID-19
 Information about Corona virus
 
-Does the 'traffic light' program can work?
+Does the 'traffic light' plan effective?
 Is it better to be ventilated or it's get the death closer?
 
 This project calculate and show some interesting information about the COVID-19.
