@@ -10,8 +10,8 @@ def getList(url):
     partList = [0]
     i = 0
     while(len(partList) != 0):
-        url = url + '&limit=100000&offset=' + str(i * 100000)
-        obj = requests.get(url)
+        newUrl = url + '&limit=100000&offset=' + str(i * 100000)
+        obj = requests.get(newUrl)
         Dict = obj.json()
         try:
             partList = Dict.get('result').get('records')
