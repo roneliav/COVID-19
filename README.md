@@ -1,5 +1,5 @@
 # COVID-19
-Information about corona virus
+Information about Corona virus
 
 Does the 'traffic light' program can work?
 Is it better to be ventilated or it's get the death closer?
